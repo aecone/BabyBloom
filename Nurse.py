@@ -4,3 +4,4 @@ class Nurse:
         self.id = id
         self.gender = gender
         self.nursing_tasks = nursing_tasks
+
